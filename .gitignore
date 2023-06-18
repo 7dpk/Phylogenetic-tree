@@ -1,2 +1,3 @@
-*.pdf
-__pycache__
+.\output_1.pdf
+\__pycache__
+test.py
